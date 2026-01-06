@@ -27,7 +27,7 @@
 
             .header-image {
                 height: 500px;
-            background-image: url('../images/3.jpg');
+            background-image: url(images/3.jpg);
                 background-size: cover;
                 background-color: rgb(252, 98, 98);
                 margin-right: 150px;
